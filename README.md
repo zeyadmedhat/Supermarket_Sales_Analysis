@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://supermarketsalesanalysis-sjnfaqkxwi8wixhvr7x8xe.streamlit.app" target="_blank">
-    <img src="https://github.com/user-attachments/assets/19cdb9ac-8d9c-4924-a083-98a012577d70" 
+    <img src="supermarket.png" 
          alt="Supermarket Sales Dashboard" 
          width="1000" height="400" />
   </a>
