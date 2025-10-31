@@ -21,7 +21,7 @@ if page == 'Home':
     # An image
     st.markdown("""
     <div style='text-align: center;'>
-        <img src='https://raw.githubusercontent.com/TheMrityunjayPathak/Super-Market-Sales-Analysis/main/images/supermarket.jpg' style='max-width: 60%; height: auto;'>
+        <img src='https://github.com/zeyadmedhat/Supermarket_Sales_Analysis/blob/main/supermarket.png' style='max-width: 60%; height: auto;'>
     </div>
     """, unsafe_allow_html=True)
 
